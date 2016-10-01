@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 #
 #  Author: Mike Ibrahim  
-#  Twitter: @stuff4rpi
+#  Date: 10/01/2016
+#  Version: 1.0
 #
 #  Repository: https://github.com/mikeibrahim/rpi-dice
 # 
