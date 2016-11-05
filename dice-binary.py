@@ -8,7 +8,7 @@
 #
 #  dice-binary.py
 #
-#  Game of Dice using binary for LED output
+#  Game of Dice up to 7 using 3 LEDs in binary
 #
 
 # Import Libraries needed

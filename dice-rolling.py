@@ -8,7 +8,7 @@
 
 #  dice-rolling.py
   
-#  This is a dice game using the seven segment LED
+#  This is a dice game up to 7 using 7 LEDs
 #  with the raspberry pi and GPIO ports
 
  

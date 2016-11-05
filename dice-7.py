@@ -8,7 +8,7 @@
 
 #  dice-7.py
   
-#  This is a dice game using the seven segment LED
+#  Game of dice up to 9 using a 7 segment LED
 #  with the raspberry pi and GPIO ports
 
  
